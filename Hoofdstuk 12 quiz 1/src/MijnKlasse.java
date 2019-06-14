@@ -1,4 +1,4 @@
-// adjusted indentations - leon
+// adjusted indentations - leon janssen
 public class MijnKlasse {
 	final int x = 3;
 
